@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_home.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_service.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/add_service.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_personnel.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/-TROFEL-/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_service.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_add_indemnite.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_add_payement.xml" value="0.2" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_add_personnel.xml" value="0.15625" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_add_service.xml" value="0.264" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_indemnite.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_payement.xml" value="0.1" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_personnel.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/activity_service.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/add_indemnite.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/add_personnel.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/add_service.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/layout_indemnite.xml" value="0.264" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/layout_payement.xml" value="0.264" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/layout_personnel.xml" value="0.264" />
+        <entry key="..\:/Users/-Trofel-/AndroidStudioProjects/Gestion_etudiants/app/src/main/res/layout/layout_service.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_add_indemnite.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_add_payement.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_add_personnel.xml" value="0.22" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_add_service.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_home.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_indemnite.xml" value="0.22" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_indemnite2.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_new_add_service.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_payement.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_personnel.xml" value="0.1953125" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_personnel2.xml" value="0.1953125" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/activity_service.xml" value="0.12195121951219512" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/add_indemnite.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/add_personnel.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/add_service.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_indemnite.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_payement.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_personnel.xml" value="0.25" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/layout/layout_service.xml" value="0.25" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/menu/menu.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/menu/menu_list.xml" value="0.209375" />
+        <entry key="..\:/Users/Anja/AndroidStudioProjects/Gestion_indemnite/app/src/main/res/menu/petit_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

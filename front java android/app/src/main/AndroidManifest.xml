@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.gestion_indemnite">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo3"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Gestion_indemnite"
+        tools:targetApi="31">
+        <activity
+            android:name=".AddPersonnel"
+            android:exported="false"
+            android:label="Ajout Etudiant" />
+        <activity
+            android:name=".AddIndemnite"
+            android:exported="false"
+            android:label="Ajout Etudiant" />
+        <activity
+            android:name=".AddService"
+            android:exported="false"
+            android:label="Ajout Etudiant" />
+<!--        <activity-->
+<!--            android:name=".newAddPersoActivity"-->
+<!--            android:exported="false" />-->
+        <activity
+            android:name=".AddPayement"
+            android:exported="false"
+            android:label="Edition Etudiant"/>
+        <activity
+            android:name=".AddIndemniteActivity"
+            android:exported="false"
+            android:label="Ajout Etudiant"/>
+        <activity
+            android:name=".AddPersonnelActivity"
+            android:exported="false"
+            android:label="Ajout Etudiant"/>
+        <activity
+            android:name=".AddServiceActivity"
+            android:exported="false"
+            android:label="Ajout Etudiant" />
+        <activity
+            android:name=".PayementActivity"
+            android:exported="false"
+            android:label="Etudiant" />
+        <activity
+            android:name=".IndemniteActivity"
+            android:exported="false"
+            android:label="Moyenne" />
+        <activity
+            android:name=".ServiceActivity"
+            android:exported="false"
+            android:label="Ajout" />
+        <activity
+            android:name=".PersonnelActivity"
+            android:exported="false"
+            android:label="Apropos" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:label="@string/app_home" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

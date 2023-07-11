@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/intro"
+    tools:context=".AddPayement">
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="211dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="36dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Note Pc :"
+        android:textColor="@color/teal_200"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+    <TextView
+        android:id="@+id/idPaye"
+        android:layout_width="49dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="39dp"
+        android:text="2"
+        android:textSize="20sp"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <EditText
+        android:id="@+id/nomPer"
+        android:layout_width="193dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="88dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:textColor="@color/teal_200"
+        android:textSize="18sp"
+        android:editable="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idPaye"
+        tools:ignore="TextViewEdits" />
+
+    <EditText
+        android:id="@+id/montPaye"
+        android:layout_width="159dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="232dp"
+        android:layout_marginTop="24dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nomPer" />
+
+    <Spinner
+        android:id="@+id/spinnerDesc"
+        android:layout_width="5dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="328dp"
+        android:layout_marginTop="88dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:scrollbarSize="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/montPaye" />
+
+    <Button
+        android:id="@+id/editPaye"
+        android:layout_width="131dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="116dp"
+        android:text="EDITER"
+        app:icon="@drawable/ic_baseline_edit_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerDesc" />
+
+    <Button
+        android:id="@+id/supprimerButton"
+        android:layout_width="162dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="116dp"
+        android:background="#FF0A0A"
+        android:text="SUPPRIMER"
+        app:icon="@drawable/ic_baseline_delete_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerDesc" />
+
+    <TextView
+        android:id="@+id/enda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="296dp"
+        android:layout_marginTop="64dp"
+        android:text="TextView"
+        android:visibility="gone"
+        app:layout_constraintStart_toEndOf="@+id/idPaye"
+        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="216dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="68dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:fontFamily="serif-monospace"
+        android:text="ETUDIANT"
+        android:textSize="40sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="28dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Note math :"
+        android:textColor="@color/teal_200"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView26" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="162dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Nom :"
+        android:textColor="@color/teal_200"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <EditText
+        android:id="@+id/notePC"
+        android:layout_width="149dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="36dp"
+        android:background="@android:drawable/editbox_background_normal"
+        app:layout_constraintStart_toEndOf="@+id/textView28"
+        app:layout_constraintTop_toBottomOf="@+id/montPaye" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
